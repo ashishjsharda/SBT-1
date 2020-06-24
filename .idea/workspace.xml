@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef848a7-c540-43a3-a850-52be5a013f63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dkNfGQcZ8PP3y1jYb8zAWqZLR2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Max" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Max" />
+      <module name="sbtbasics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Max" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="sbtbasics" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sbtbasics [file:/C:/Users/ashis/Downloads/Assignmentscala/sbtbasics/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sbtbasics-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3185930464310" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="651565649" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Analysis-of-Geospatial-Operations-on-Distributed-Data-Platform-master (2)/Analysis-of-Geospatial-Operations-on-Distributed-Data-Platform-master/PHASE 2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSE511-Project-Milestone 4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../assignment6/CSE512-Project-Phase2-Template-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../assignment62/CSE512-Project-Phase2-Template-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../assignmentx/CSE511-Project-Milestone 4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../uWCzhLbdEeiIWQ7qQVoxgg_b9894990b6dd11e8ae3eb3de497ec78b_CSE511-Project-Hotspot-Analysis-Template-master/CSE512-Project-Hotspot-Analysis-Template-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef848a7-c540-43a3-a850-52be5a013f63" name="Default Changelist" comment="" />
+      <created>1592965232116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592965232116</updated>
+    </task>
+    <servers />
+  </component>
+</project>
